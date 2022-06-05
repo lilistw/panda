@@ -1,5 +1,4 @@
 ({
-    myAction : function(component, event, helper) {
-
+    updateGreeting : function(component, event, helper) {
     }
 })
